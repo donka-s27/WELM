@@ -2,8 +2,8 @@
 //  FilmedMovieCell.m
 //  Welm
 //
-//  Created by Luke Stanley on 1/8/16.
-//  Copyright © 2016 Luke Stanley. All rights reserved.
+//  Created by Donka Stoyanov on 1/8/16.
+//  Copyright © 2016 Donka Stoyanov. All rights reserved.
 //
 
 #import "FilmedMovieCell.h"

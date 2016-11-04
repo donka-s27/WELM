@@ -2,8 +2,8 @@
 //  ResultViewController.h
 //  Welm
 //
-//  Created by Luke Stanley on 1/10/16.
-//  Copyright © 2016 Luke Stanley. All rights reserved.
+//  Created by Donka Stoyanov on 1/10/16.
+//  Copyright © 2016 Donka Stoyanov. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

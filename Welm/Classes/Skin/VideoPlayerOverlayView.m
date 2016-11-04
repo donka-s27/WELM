@@ -2,8 +2,8 @@
 //  VideoPlayerOverlayView.m
 //  Welm
 //
-//  Created by Luke Stanley on 12/5/15.
-//  Copyright © 2015 Luke Stanley. All rights reserved.
+//  Created by Donka Stoyanov on 12/5/15.
+//  Copyright © 2015 Donka Stoyanov. All rights reserved.
 //
 
 #import "VideoPlayerOverlayView.h"
